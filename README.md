@@ -1,5 +1,4 @@
-# starfire_exercise
-Agentic AI Workflow for Starfire
+Agentic AI Analysis Workflow for Starfire
 
 **Usage**: streamlit run app.py
 
